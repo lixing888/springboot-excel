@@ -10,6 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * <p>
  * 导入访问地址
  * http://localhost:8888/api/hello/readExcel
+ * swagger地址
+ * http://localhost:8888/swagger-ui.html#/
  *
  * @author lixing
  */
